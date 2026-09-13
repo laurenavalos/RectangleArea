@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LEA.RectangleArea/LEA.RectangleArea.vcxproj" Id="a1393340-ffaa-4b27-9cf6-70b53d8c4da4" />
+</Solution>
