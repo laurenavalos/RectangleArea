@@ -19,31 +19,31 @@ int main()
 
 int GetLengthFromUser()
 {
-    int returnValue;
+    int length;
 
     cout << "Enter the length of the rectangle: ";
-    cin >> returnValue;
+    cin >> length;
 
-    return returnValue;
+    return length;
 }
 
 int GetWidthFromUser()
 {
-    int returnValue;
+    int width;
 
     cout << "Enter the width of the rectangle: ";
-    cin >> returnValue;
+    cin >> width;
 
-    return returnValue;
+    return width;
 }
 
 int CalculateArea(int length, int width)
 {
-    int returnValue;
+    int area;
 
-    returnValue = length * width;
+    area = length * width;
 
-    return returnValue;
+    return area;
 }
 
 void DisplayArea(int area)
